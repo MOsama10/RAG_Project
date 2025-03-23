@@ -71,7 +71,7 @@ python main.py
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true)
+[![Watch the demo]((https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true)]
 
 ---
 
