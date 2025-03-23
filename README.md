@@ -72,10 +72,6 @@ python main.py
 ## 🎥 Demo
 To view a demo of the project in action:
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> Replace `YOUR_VIDEO_ID` with your actual YouTube video ID after uploading.
-
 Alternatively, if hosting locally on GitHub:
 ```html
 <video width="720" controls>
@@ -83,12 +79,6 @@ Alternatively, if hosting locally on GitHub:
   Your browser does not support the video tag.
 </video>
 ```
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome! Feel free to fork the repository and submit a PR.
 
 ---
 
