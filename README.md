@@ -69,10 +69,6 @@ python main.py
 - Input: "Which products have the highest ratings this month?"
 - Output: The system translates this to SQL, queries the DB, and generates a summary answer using the LLM.
 
-## 🎥 Demo
-
-[![Watch the demo]((https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true)]
-
 ---
 
 Enjoy building local RAG systems with no cloud dependencies! 💡
