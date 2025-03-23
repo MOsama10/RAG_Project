@@ -1,0 +1,95 @@
+
+.\env\Scripts\activate
+
+These questions are structured to:
+- Cover **all tables** in your database
+- Trigger realistic SQL queries
+- Return meaningful results
+- Validate both **query generation** and **summary output**
+
+---
+
+## ✅ FORMAL TEST QUESTIONS FOR OFFLINE RAG PIPELINE
+
+---
+
+### 📦 Products
+
+1. **List all available products with their categories and stock levels.**
+2. **Which products have less than 50 items in stock?**
+3. **What are the top 5 most expensive products?**
+4. **Show all products in the 'Health' category.**
+5. **What is the average price of products in the 'Beauty' category?**
+
+---
+
+### 🛍️ Orders & Order Items
+
+6. **Show all orders placed after January 1, 2023.**
+7. **List orders where the total amount is greater than 300.**
+8. **How many items were purchased in each order?**
+9. **List the top 3 orders with the highest total amount.**
+10. **Show the quantity of each product sold in the last 30 days.**
+
+---
+
+### 👤 Customers
+
+11. **List all customer names and their email addresses.**
+12. **Which customers joined in 2022?**
+13. **Show all customers who have placed more than one order.**
+14. **List customers who have not placed any orders.**
+15. **Which customers live in Cairo or Giza?**
+
+---
+
+### 💬 Reviews
+
+16. **List all reviews with product names and customer names.**
+17. **What is the average rating for each product?**
+18. **Which product has received the most reviews?**
+19. **Show all 5-star reviews written this year.**
+20. **Which customers gave low ratings (1 or 2 stars)?**
+
+---
+
+### 🚚 Suppliers
+
+21. **List all suppliers and their contact information.**
+22. **Which products are supplied by each supplier?**
+23. **Are there any suppliers who provide more than 5 products?**
+24. **Show suppliers based in Cairo.**
+25. **List all unique supplier names.**
+
+---
+
+### 👨‍💼 Employees
+
+26. **List all employees and their departments.**
+27. **Which employees work in the Sales department?**
+28. **Show employees hired before January 2022.**
+29. **Who is the highest-paid employee?**
+30. **List the number of employees in each department.**
+
+---
+
+### 🧠 Mixed Logic (Cross-table)
+
+31. **What are the top 5 best-selling products this month?**
+32. **Which customer has spent the most money in total?**
+33. **List orders with more than 3 items.**
+34. **Which products have never been ordered?**
+35. **What is the total number of reviews written in the last 6 months?**
+
+---
+
+### 🛠️ Diagnostic Questions (System Validation)
+
+36. **What tables exist in the database?**
+37. **What columns exist in the 'orders' table?**
+38. **Is there any missing data in the 'email' column of customers?**
+39. **How many rows are there in the 'order_items' table?**
+40. **Summarize the structure of the database in natural language.**
+
+---
+
