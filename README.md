@@ -70,13 +70,8 @@ python main.py
 - Output: The system translates this to SQL, queries the DB, and generates a summary answer using the LLM.
 
 ## 🎥 Demo
-To view a demo of the project in action:
 
-<video width="720" controls>
-  <source src="https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true)
 
 ---
 
