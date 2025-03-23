@@ -69,7 +69,28 @@ python main.py
 - Input: "Which products have the highest ratings this month?"
 - Output: The system translates this to SQL, queries the DB, and generates a summary answer using the LLM.
 
+## 🎥 Demo
+To view a demo of the project in action:
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+> Replace `YOUR_VIDEO_ID` with your actual YouTube video ID after uploading.
+
+Alternatively, if hosting locally on GitHub:
+```html
+<video width="720" controls>
+  <source src="https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+Pull requests and suggestions are welcome! Feel free to fork the repository and submit a PR.
 
 ---
 
 Enjoy building local RAG systems with no cloud dependencies! 💡
+
