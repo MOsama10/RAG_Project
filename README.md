@@ -72,13 +72,11 @@ python main.py
 ## 🎥 Demo
 To view a demo of the project in action:
 
-Alternatively, if hosting locally on GitHub:
-```html
 <video width="720" controls>
-  <source src="https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4">
+  <source src="https://github.com/MOsama10/RAG_Project/blob/main/RAG_Task.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-```
+
 
 ---
 
